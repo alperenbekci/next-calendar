@@ -54,7 +54,7 @@ const YearGrid = () => {
       </main>
       <footer className="w-full py-4 px-6 flex justify-between items-center fixed bottom-0 font-mono">
         <Link
-          href="https://github.com/alperenbekci/next-calender"
+          href="https://github.com/alperenbekci/next-calendar"
           className="text-sm underline hover:text-blue-500 transition"
           target="_blank"
           rel="noopener noreferrer"
